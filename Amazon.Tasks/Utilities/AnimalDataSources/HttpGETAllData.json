@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3,
+    "name": "LOTR The Fellowship of the Ring",
+    "authorId": 1,
+    "editorial": "Minotauro",
+    "genreId": 3,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 5,
+    "name": "LOTR The Two Towers",
+    "authorId": 1,
+    "editorial": "Minotauro",
+    "genreId": 3,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 7,
+    "name": "LOTR The Return of the King",
+    "authorId": 1,
+    "editorial": "Minotauro",
+    "genreId": 3,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 8,
+    "name": "The name of the rose",
+    "authorId": 3,
+    "editorial": "Pendulo",
+    "genreId": 5,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 9,
+    "name": "Cien annios de soledad",
+    "authorId": 4,
+    "editorial": "Planet",
+    "genreId": 5,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 11,
+    "name": "Los pasos de Lopez",
+    "authorId": 6,
+    "editorial": "Minotauro",
+    "genreId": 5,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 12,
+    "name": "I, Robot",
+    "authorId": 5,
+    "editorial": "Sepan cuantos",
+    "genreId": 1,
+    "author": null,
+    "genre": null
+  },
+  {
+    "id": 13,
+    "name": "Bicentennial man",
+    "authorId": 5,
+    "editorial": "Trillas",
+    "genreId": 4,
+    "author": null,
+    "genre": null
+  }
+]
